@@ -5,7 +5,7 @@ This is a basic Python battle simulation between two characters: a heroic Knight
 ## File Structure
 
 - `character.py`: Defines the `Character` class with attributes and methods for combat.
-- `main.py`: Runs the battle simulation using two instances of `Character`.
+- `main2.py`: Runs the battle simulation using two instances of `Character`.
 
 ## Character Class
 
@@ -23,7 +23,7 @@ Located in `character.py`, the `Character` class includes:
 
 ##  How the Battle Works
 
-The battle logic in `main.py` follows these steps:
+The battle logic in `main2.py` follows these steps:
 
 1. Create two characters: Knight and Goblin.
 2. Print their initial stats.
@@ -35,7 +35,7 @@ The battle logic in `main.py` follows these steps:
 
 ##  Running the Game
 
-To run the simulation, execute `main.py`:
+To run the simulation, execute `main2.py`:
 
 ```bash
 python main2.py

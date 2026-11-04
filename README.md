@@ -38,4 +38,4 @@ The battle logic in `main.py` follows these steps:
 To run the simulation, execute `main.py`:
 
 ```bash
-python main.py
+python main2.py
